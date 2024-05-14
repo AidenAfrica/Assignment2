@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SnapPoint
+  - other
+  - SnapObject
+  - SellSnap
+  - Undefined
+  - ShopSnap
+  - SquareTest1
+  - SquareTest2
+  - SquareTest3
+  - SquareTest4
+  - SquareTest5
+  - SquareTest6
+  - shopSnap
+  - NeutralSnap
+  - StoreSnap
+  - EmptySnapPoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - SnapPoints
+  - SnapObjects
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Top layer
+    uniqueID: 3533022933
+    locked: 0
+  - name: Bottom layer
+    uniqueID: 4101804203
+    locked: 0
